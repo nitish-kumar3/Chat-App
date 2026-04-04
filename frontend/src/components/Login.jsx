@@ -7,7 +7,6 @@ import toast from "react-hot-toast";
 
 
 
-
 function Login() {
   const [authUser, setAuthUser] = useAuth();
 
